@@ -11,7 +11,7 @@
 3. Открыть пост https://qamidhl.herokuapp.com/?p=1
 4. Добавить комментарий заполнив поле Comment
 
-**Записанный сценарий в формате jmx:** https://github.com/Dmitruzd21/JMeterAndBlazeMeter/blob/master/QAMIDHL_folder/QAMIDHL.jmx
+**Записанный сценарий в формате jmx:** https://github.com/Dashkapokk92/JMeterAndBlazeMeter-master/blob/master/QAMIDHL_folder/QAMIDHL.jmx
 
 **Cкриншот о выполнении сценария в JMeter с помощью `View Results Tree`**
 
@@ -73,7 +73,7 @@
 
 6. Клик по кнопке "Получить код бронирования"
 
-**Записанный сценарий в формате jmx:** https://github.com/Dmitruzd21/JMeterAndBlazeMeter/blob/master/Cinema_folder/Cinema.jmx_changes.png
+**Записанный сценарий в формате jmx:** https://github.com/Dashkapokk92/JMeterAndBlazeMeter-master/blob/master/Cinema_folder/Cinema.jmx_changes.png
 
 **Примечание:** Для воспроизведения сценария необходимо изменить параментр seanceTimeStamp во втором запросе (Select Day). Этот параметр изменяется каждый день.
 
